@@ -1,0 +1,1 @@
+projeto adaptado p/ utilização em Arduino Pro Mini 3.3v
